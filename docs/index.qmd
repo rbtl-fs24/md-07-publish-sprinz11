@@ -2,13 +2,13 @@
 title: "A minimal example"
 date: today
 author: Sven P
-format:
-  html:
-    toc: true
+format: revealjs
 execute:
   warning: false
 editor: visual
 ---
+
+# Introduction
 
 ## Data
 
@@ -61,3 +61,10 @@ penguins |>
   fmt_number(columns = c(mean_bill_depth, sd_bill_depth),
              decimals = 1)
 ```
+
+# Analysis
+
+## Modelling
+- point1
+- point 2
+- point 3
